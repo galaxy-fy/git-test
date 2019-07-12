@@ -9,4 +9,9 @@ public class GitTest {
         System.out.println("123");
         System.out.println("123");
     }
+
+    public void test(){
+        int i=1;
+        i+=1;
+    }
 }
